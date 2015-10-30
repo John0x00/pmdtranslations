@@ -1,0 +1,29 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: pornmd\n"
+"POT-Creation-Date: 2015-07-09 16:19:24\n"
+"PO-Revision-Date: 2015-10-26 10:32-0400\n"
+"Language-Team: French\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.5\n"
+"Last-Translator: MrDep <john.ashton@mindgeek.com>\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"Language: fr\n"
+"X-Crowdin-Project: pornmd\n"
+"X-Crowdin-Language: fr\n"
+"X-Crowdin-File: core.pot\n"
+
+msgid "Trending Searches"
+msgstr "Tendances des recherches"
+
+msgid "Orientation"
+msgstr "Orientation"
+
+msgid "Global Top Searches"
+msgstr "Recherches les plus fréquentes globales"
+
+msgid "Global Top 10 Searches"
+msgstr "Mondiales Top 10 recherches"
+
